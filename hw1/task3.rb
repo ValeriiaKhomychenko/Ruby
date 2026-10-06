@@ -33,7 +33,6 @@ def play_rps
 
     user_choice = input.to_i
 
-    # Перевірка: чи число входить у діапазон від 1 до 3
     unless [1, 2, 3].include?(user_choice)
       puts "Некоректний вибір! Введи лише цифру: 1, 2 або 3 (або 0 для виходу).\n\n"
       next
@@ -46,7 +45,6 @@ def play_rps
 
     stats[:rounds] += 1
 
-    # Визначаємо переможця за правилами
     if user_choice == computer_choice
       puts "Результат: Нічия!"
       stats[:draws] += 1
@@ -58,7 +56,6 @@ def play_rps
       stats[:computer_wins] += 1
     end
 
-    # Виведення статистики
     puts "\n--- Статистика гри ---"
     puts "Раундів зіграно:    #{stats[:rounds]}"
     puts "Переміг гравець:     #{stats[:user_wins]}"
