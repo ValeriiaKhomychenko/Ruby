@@ -18,7 +18,7 @@
 |---|---|---|---|
 | 1 | Основи Ruby | ✅ Виконано | [lab01](./lab01) |
 | 2 | Умовні конструкції та цикли | ✅ Виконано | [lab02](https://github.com/ValeriiaKhomychenko/Ruby/blob/main/lab02/pie.rb)|
-| 3 | Масиви та хеші | ✅ Виконано  |lab03]([./sudoku.rb](https://github.com/ValeriiaKhomychenko/Ruby/blob/main/lab03/sudocu.rb)) |
+| 3 | Масиви та хеші | ✅ Виконано  |lab03](https://github.com/ValeriiaKhomychenko/Ruby/blob/main/lab03/sudocu.rb) |
 | 4 | Методи та блоки | ⬜ Не розпочато | — |
 | 5 | Основи ООП | ⬜ Не розпочато | — |
 | 6 | Класи та успадкування | ⬜ Не розпочато | — |
