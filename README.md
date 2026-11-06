@@ -17,9 +17,9 @@
 | № | Назва роботи | Статус | Посилання |
 |---|---|---|---|
 | 1 | Основи Ruby | ✅ Виконано | [lab01](./lab01) |
-| 2 | Умовні конструкції та цикли | ✅ Виконано | [lab02](https://github.com/ValeriiaKhomychenko/Ruby/blob/main/lab02/pie.rb)|
-| 3 | Масиви та хеші | ✅ Виконано  |[lab03](https://github.com/ValeriiaKhomychenko/Ruby/blob/main/lab03/sudocu.rb)|
-| 4 | Методи та блоки | ⬜ Не розпочато | — |
+| 2 | Пиріг з родзинками | ✅ Виконано | [lab02](https://github.com/ValeriiaKhomychenko/Ruby/blob/main/lab02/pie.rb)|
+| 3 | Судоку | ✅ Виконано  |[lab03](https://github.com/ValeriiaKhomychenko/Ruby/blob/main/lab03/sudocu.rb)|
+| 4 | Морський бій | ✅ Виконано | [lab04](https://github.com/ValeriiaKhomychenko/Ruby/blob/main/lab04) |
 | 5 | Основи ООП | ⬜ Не розпочато | — |
 | 6 | Класи та успадкування | ⬜ Не розпочато | — |
 
