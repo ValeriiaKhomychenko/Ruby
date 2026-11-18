@@ -20,8 +20,9 @@
 | 2 | Пиріг з родзинками | ✅ Виконано | [lab02](https://github.com/ValeriiaKhomychenko/Ruby/blob/main/lab02/pie.rb)|
 | 3 | Судоку | ✅ Виконано  |[lab03](https://github.com/ValeriiaKhomychenko/Ruby/blob/main/lab03/sudocu.rb)|
 | 4 | Морський бій | ✅ Виконано | [lab04](https://github.com/ValeriiaKhomychenko/Ruby/blob/main/lab04) |
-| 5 | Основи ООП | ⬜ Не розпочато | — |
-| 6 | Класи та успадкування | ⬜ Не розпочато | — |
+| 5 | Контрольна робота | ✅ Виконано | [kr](https://github.com/ValeriiaKhomychenko/Ruby/tree/main/kr)
+| 6 | Основи ООП | ⬜ Не розпочато | — |
+| 7 | Класи та успадкування | ⬜ Не розпочато | — |
 
 **Позначення статусів:**
 
@@ -59,4 +60,4 @@ ruby main.rb
 
 ---
 
-**Останнє оновлення:** 06.11.2026
+**Останнє оновлення:** 18.11.2026
